@@ -14,5 +14,87 @@
 <img width="1440" height="900" alt="Screenshot 2026-11-03 at 10 14 43 PM" src="https://github.com/user-attachments/assets/d55d842b-8ddc-45da-99af-b82baba2e15b" />
 
 
+#### 2. Subfinder tool was used to perform OSINT analysis on each domain and obtaind more subdomains. Proxychains was used to route the subfinder by way of maintaining anonymity. 
+
+<h5> subdomains of mtn.com.gh</h5> 
+<img width="1272" height="833" alt="Screenshot 2026-11-04 at 12 57 40 PM" src="https://github.com/user-attachments/assets/86c29101-2790-4e0a-ae8e-e27b3f985c75" />
+
+<img width="1273" height="799" alt="Screenshot 2026-11-04 at 12 58 41 PM" src="https://github.com/user-attachments/assets/be201dc2-78ed-4b7c-8e36-e075fadebc06" />
+
+<h5> subdomains of ug.edu.gh</h5> 
+<img width="1277" height="814" alt="Screenshot 2026-11-04 at 1 03 33 PM" src="https://github.com/user-attachments/assets/dbaf63f3-a003-4bb7-85f2-0d8688554424" />
+
+<img width="1274" height="812" alt="Screenshot 2026-11-04 at 1 03 41 PM" src="https://github.com/user-attachments/assets/fb4593ea-a5c5-4caa-9053-ca33a8668904" />
+
+
+<h5> subdomains of central.edu.gh</h5> 
+<img width="1281" height="824" alt="Screenshot 2026-11-04 at 1 10 03 PM" src="https://github.com/user-attachments/assets/e95b0237-f78f-4a05-b650-a559605187d9" />
+
+<img width="1279" height="823" alt="Screenshot 2026-11-04 at 1 10 10 PM" src="https://github.com/user-attachments/assets/a0d3696c-1f38-41a0-8441-b5f954e56089" />
+
+<h5> subdomains of coliserver.com</h5> 
+<img width="1286" height="813" alt="Screenshot 2026-11-04 at 1 14 55 PM" src="https://github.com/user-attachments/assets/ff354453-c99d-448d-a2f5-6bca12b5f7cc" />
+
+<img width="1279" height="807" alt="Screenshot 2026-11-04 at 1 15 01 PM" src="https://github.com/user-attachments/assets/5f8ff71b-46e2-4c10-ae37-e8d33f209be8" />
+
+
+
+#### 3. Performed Google dorking for the domains 
+<img width="1440" height="900" alt="Screenshot 2026-11-06 at 12 00 16 PM" src="https://github.com/user-attachments/assets/70be6486-0b45-43a1-a2b8-7036435ab437" />
+
+<img width="1440" height="900" alt="Screenshot 2026-11-06 at 12 00 57 PM" src="https://github.com/user-attachments/assets/ee0639a3-5396-45aa-a62f-f7d15fdeaa7f" />
+
+<img width="1440" height="900" alt="Screenshot 2026-11-06 at 11 59 23 AM" src="https://github.com/user-attachments/assets/f4ac368b-9500-48e2-9666-577c8c0c3b19" />
+
+<img width="1437" height="888" alt="Screenshot 2026-11-03 at 10 40 36 PM" src="https://github.com/user-attachments/assets/3b14a814-89d0-41c9-9008-c80e8d0eaedf" />
+
+
+#### 4. Further OSINT analysis was performed on the domains using theHarvester tool. In order to learn different types of proxies, oniux was used to route theHarvester tool.
+<h5> subdomains of mtn.com.gh using theHarvester tool</h5> 
+<img width="1278" height="827" alt="Screenshot 2026-11-04 at 7 55 47 PM" src="https://github.com/user-attachments/assets/5f6ba77e-eda0-4a16-9679-1ef3bc4aaba2" />
+
+<img width="1279" height="834" alt="Screenshot 2026-11-04 at 7 59 08 PM" src="https://github.com/user-attachments/assets/417aa659-9654-4e6c-80b4-7302ac4f039a" />
+
+<img width="1275" height="838" alt="Screenshot 2026-11-04 at 7 59 03 PM" src="https://github.com/user-attachments/assets/d9e1af17-172a-4d35-bfd9-68b158c23b98" />
+
+
+<h5> subdomains of coliserver.com using theHarvester tool</h5> 
+<img width="1279" height="835" alt="Screenshot 2026-11-04 at 8 10 02 PM" src="https://github.com/user-attachments/assets/2f51ce6a-73a6-4454-9fa3-385b7dbe3803" />
+<img width="1279" height="824" alt="Screenshot 2026-11-04 at 8 14 36 PM" src="https://github.com/user-attachments/assets/c611c86b-da37-4afa-9767-352878f80917" />
+
+
+<h5> subdomains of ug.edu.gh using theHarvester tool</h5>
+<img width="1285" height="821" alt="Screenshot 2026-11-06 at 12 33 35 PM" src="https://github.com/user-attachments/assets/94601ff7-7133-4a0a-9c15-666467bc56c2" />
+
+<img width="1287" height="763" alt="Screenshot 2026-11-06 at 12 37 59 PM" src="https://github.com/user-attachments/assets/56b6b6bf-90bf-42c7-9006-5d2f0d199382" />
+
+<img width="1282" height="763" alt="Screenshot 2026-11-06 at 12 37 42 PM" src="https://github.com/user-attachments/assets/df056343-b3c5-4617-9744-eb69bfc9494c" />
+
+<img width="1286" height="768" alt="Screenshot 2026-11-06 at 12 37 53 PM" src="https://github.com/user-attachments/assets/3c20fc0b-17ed-4672-a346-2457c79b50f4" />
+
+
+<h5> subdomains of central.edu.gh using theHarvester tool</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
