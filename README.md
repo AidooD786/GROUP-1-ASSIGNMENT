@@ -15,6 +15,8 @@
 <img width="1440" height="900" alt="Screenshot 2026-11-03 at 10 14 43 PM" src="https://github.com/user-attachments/assets/d55d842b-8ddc-45da-99af-b82baba2e15b" />
 
 
+
+
 #### 2. Subfinder tool was used to perform OSINT analysis on each domain and obtaind more subdomains. Proxychains was used to route the subfinder by way of maintaining anonymity. 
 
 <h5> subdomains of mtn.com.gh</h5> 
@@ -40,6 +42,8 @@
 
 
 
+
+
 #### 3. Performed Google dorking for the domains 
 <img width="1440" height="900" alt="Screenshot 2026-11-06 at 12 00 16 PM" src="https://github.com/user-attachments/assets/70be6486-0b45-43a1-a2b8-7036435ab437" />
 
@@ -48,6 +52,8 @@
 <img width="1440" height="900" alt="Screenshot 2026-11-06 at 11 59 23 AM" src="https://github.com/user-attachments/assets/f4ac368b-9500-48e2-9666-577c8c0c3b19" />
 
 <img width="1437" height="888" alt="Screenshot 2026-11-03 at 10 40 36 PM" src="https://github.com/user-attachments/assets/3b14a814-89d0-41c9-9008-c80e8d0eaedf" />
+
+
 
 
 #### 4. Further OSINT analysis was performed on the domains using theHarvester tool. In order to learn different types of proxies, oniux was used to route theHarvester tool.
@@ -84,6 +90,8 @@
 
 
 
+
+
 #### 5. Maltego was useed to connect the dots.
 
 <h5> maltego connection for mtn.com.gh</h5>
@@ -103,7 +111,10 @@
 
 
 
-#### 5. Proof that my ip address is hidden and not visible to monitoring tools. I used proxychains and oniux as to hide my ip address while using tools like subfinder and theHarvester.
+
+
+
+#### 6. Proof that my ip address is hidden and not visible to monitoring tools. I used proxychains and oniux as to hide my ip address while using tools like subfinder and theHarvester.
 
 <P> The real public ip address (197.253.72.100) was checked using the command curl https://icanhazip.com</P>
 
@@ -114,16 +125,24 @@
 <P> DNS check test was done using the command oniux curl https://dnsleaktest.com. It shows another different the ip address (192.42.116.107) which geolocation is in NETHERLANDS. </P>
 
 
-<h5> screenshot showing real ip, differnt ip, and Tor connection </h5>
+<h5> screenshot showing real ip, differnt ip, Tor connection, dns leak test</h5>
 <img width="1281" height="809" alt="Screenshot 2026-11-06 at 4 32 06 PM" src="https://github.com/user-attachments/assets/03f43a4b-50bc-4cb0-8951-bbac4e35e355" />
 
 
+<h5> screenshot containing another different ip address with geolocation at NETHERLANDS </h5>
 <img width="1282" height="822" alt="Screenshot 2026-11-06 at 4 30 30 PM" src="https://github.com/user-attachments/assets/ee2d71ef-3146-41f0-9107-5587fa207c1e" />
 
 
 
+<p> In order to check the exit IP address across five requests, this command 
+  (for i in {1..5}; do
+  oniux curl -s https://icanhazip.com
+done)
+  was run. Different ip addresses were observed.</p>
 
 
+<h5> screenshot showing five different ip addresses </h5>
+<img width="1278" height="816" alt="Screenshot 2026-11-06 at 5 12 52 PM" src="https://github.com/user-attachments/assets/698eb79b-b88e-4b7b-ab48-2119e769857f" />
 
 
 
