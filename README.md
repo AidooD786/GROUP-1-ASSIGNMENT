@@ -1,3 +1,4 @@
+
 # Week 2 Ethical Hacking exercise
 
 #### 1. Obtained four domains (mtn.com.gh, coliserver.com, ug.edu.gh, central.edu.gh) from shodan.io
@@ -86,14 +87,19 @@
 #### 5. Maltego was useed to connect the dots.
 
 <h5> maltego connection for mtn.com.gh</h5>
+<img width="1218" height="802" alt="Screenshot 2026-11-05 at 10 40 32 PM" src="https://github.com/user-attachments/assets/8529db15-83c5-4af5-902e-e5e875265cf6" />
 
 
-
-<h5> maltego connection for mtn.com.gh</h5>
-
-
+<h5> maltego connection for ug.edu.gh</h5>
+<img width="1253" height="821" alt="Screenshot 2026-11-05 at 11 25 04 PM" src="https://github.com/user-attachments/assets/56290ffc-7490-40e1-b858-074b25ce5a6e" />
 
 
+<h5> maltego connection for coliserver.com</h5>
+<img width="1249" height="808" alt="Screenshot 2026-11-05 at 11 25 11 PM" src="https://github.com/user-attachments/assets/c2f14105-04b9-4ef7-b677-d5279b3d418a" />
+
+
+<h5> maltego connection for central.edu.gh</h5>
+<img width="1432" height="798" alt="Screenshot 2026-11-06 at 3 25 59 PM" src="https://github.com/user-attachments/assets/10fedcdc-b49d-4b1e-be02-879d37b4aa67" />
 
 
 
