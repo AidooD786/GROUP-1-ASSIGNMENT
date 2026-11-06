@@ -73,7 +73,18 @@
 <img width="1286" height="768" alt="Screenshot 2026-11-06 at 12 37 53 PM" src="https://github.com/user-attachments/assets/3c20fc0b-17ed-4672-a346-2457c79b50f4" />
 
 
+
 <h5> subdomains of central.edu.gh using theHarvester tool</h5>
+<img width="1268" height="826" alt="Screenshot 2026-11-06 at 12 44 37 PM" src="https://github.com/user-attachments/assets/9ea34726-636d-4a7f-a901-a8dc519fcc11" />
+
+<img width="1282" height="836" alt="Screenshot 2026-11-06 at 12 46 33 PM" src="https://github.com/user-attachments/assets/76115400-aef8-48e3-85e1-6f7f7fa95193" />
+
+<img width="1282" height="822" alt="Screenshot 2026-11-06 at 12 46 38 PM" src="https://github.com/user-attachments/assets/938fecac-0a3b-4960-a888-310a5aeeca61" />
+
+
+
+#### 5. Maltego was useed to connect the dots.
+
 
 
 
