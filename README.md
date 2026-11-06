@@ -129,16 +129,16 @@
 <img width="1281" height="809" alt="Screenshot 2026-11-06 at 4 32 06 PM" src="https://github.com/user-attachments/assets/03f43a4b-50bc-4cb0-8951-bbac4e35e355" />
 
 
-<h5> screenshot containing another different ip address with geolocation at NETHERLANDS </h5>
+<h5> screenshot containing another different ip address (192.42.116.107) with geolocation at NETHERLANDS </h5>
 <img width="1282" height="822" alt="Screenshot 2026-11-06 at 4 30 30 PM" src="https://github.com/user-attachments/assets/ee2d71ef-3146-41f0-9107-5587fa207c1e" />
 
 <br><br>
 
 <p> In order to check the exit IP address across five requests, this command <br>
-  (for i in {1..5}; do <br>
-  oniux curl -s https://icanhazip.com <br>
-done) <br>
-  was run. Different ip addresses were observed.</p>
+  for i in {1..5}; do <br>
+    oniux curl -s https://icanhazip.com <br>
+  done <br>
+  was run. <br> Different ip addresses were observed.</p>
 
 
 <h5> screenshot showing five different ip addresses </h5>
