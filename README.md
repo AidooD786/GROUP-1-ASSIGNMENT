@@ -103,6 +103,22 @@
 
 
 
+#### 5. Proof that my ip address is hidden and not visible to monitoring tools. I used proxychains and oniux as to hide my ip address while using tools like subfinder and theHarvester.
+
+<P> The real public ip address (197.253.72.100) was checked using the command curl https://icanhazip.com</P>
+
+<P> oniux was added to the command and noticed that the ip address (192.42.116.13) has changed from the real state</P>
+
+<P> Tor connection was also verified using the command oniux curl https://check.torproject.org/api/ip.</P>
+
+<P> DNS check test was done using the command oniux curl https://dnsleaktest.com. It shows another different the ip address (192.42.116.107) which geolocation is in NETHERLANDS. </P>
+
+
+<h5> screenshot showing real ip, differnt ip, and Tor connection </h5>
+<img width="1281" height="809" alt="Screenshot 2026-11-06 at 4 32 06 PM" src="https://github.com/user-attachments/assets/03f43a4b-50bc-4cb0-8951-bbac4e35e355" />
+
+
+<img width="1282" height="822" alt="Screenshot 2026-11-06 at 4 30 30 PM" src="https://github.com/user-attachments/assets/ee2d71ef-3146-41f0-9107-5587fa207c1e" />
 
 
 
