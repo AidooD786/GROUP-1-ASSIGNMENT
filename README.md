@@ -15,7 +15,7 @@
 <img width="1440" height="900" alt="Screenshot 2026-11-03 at 10 14 43 PM" src="https://github.com/user-attachments/assets/d55d842b-8ddc-45da-99af-b82baba2e15b" />
 
 
-
+<br><br>
 
 #### 2. Subfinder tool was used to perform OSINT analysis on each domain and obtaind more subdomains. Proxychains was used to route the subfinder by way of maintaining anonymity. 
 
@@ -42,7 +42,7 @@
 
 
 
-
+<br><br>
 
 #### 3. Performed Google dorking for the domains 
 <img width="1440" height="900" alt="Screenshot 2026-11-06 at 12 00 16 PM" src="https://github.com/user-attachments/assets/70be6486-0b45-43a1-a2b8-7036435ab437" />
@@ -54,7 +54,7 @@
 <img width="1437" height="888" alt="Screenshot 2026-11-03 at 10 40 36 PM" src="https://github.com/user-attachments/assets/3b14a814-89d0-41c9-9008-c80e8d0eaedf" />
 
 
-
+<br><br>
 
 #### 4. Further OSINT analysis was performed on the domains using theHarvester tool. In order to learn different types of proxies, oniux was used to route theHarvester tool.
 <h5> subdomains of mtn.com.gh using theHarvester tool</h5> 
@@ -90,7 +90,7 @@
 
 
 
-
+<br><br>
 
 #### 5. Maltego was useed to connect the dots.
 
@@ -111,18 +111,18 @@
 
 
 
-
+<br><br>
 
 
 #### 6. Proof that my ip address is hidden and not visible to monitoring tools. I used proxychains and oniux as to hide my ip address while using tools like subfinder and theHarvester.
 
-<P> The real public ip address (197.253.72.100) was checked using the command curl https://icanhazip.com</P>
+<P> The real public ip address (197.253.72.100) was checked using the command (curl https://icanhazip.com)</P>
 
 <P> oniux was added to the command and noticed that the ip address (192.42.116.13) has changed from the real state</P>
 
-<P> Tor connection was also verified using the command oniux curl https://check.torproject.org/api/ip.</P>
+<P> Tor connection was also verified using the command (oniux curl https://check.torproject.org/api/ip).</P>
 
-<P> DNS check test was done using the command oniux curl https://dnsleaktest.com. It shows another different the ip address (192.42.116.107) which geolocation is in NETHERLANDS. </P>
+<P> DNS check test was done using the command (oniux curl https://dnsleaktest.com). It shows another different the ip address (192.42.116.107) which geolocation is in NETHERLANDS. </P>
 
 
 <h5> screenshot showing real ip, differnt ip, Tor connection, dns leak test</h5>
