@@ -137,7 +137,7 @@
 <p> In order to check the exit IP address across five requests, this command <br>
   (for i in {1..5}; do
   oniux curl -s https://icanhazip.com
-done)
+done) <br>
   was run. Different ip addresses were observed.</p>
 
 
